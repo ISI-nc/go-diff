@@ -1,4 +1,4 @@
-module github.com/mcluseau/go-diff
+module github.com/isi-nc/go-diff
 
 require (
 	github.com/boltdb/bolt v1.3.1

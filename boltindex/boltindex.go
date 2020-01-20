@@ -7,7 +7,7 @@ import (
 
 	"github.com/boltdb/bolt"
 
-	diff "github.com/mcluseau/go-diff"
+	diff "github.com/isi-nc/go-diff"
 )
 
 const seenBatchSize = 1000
